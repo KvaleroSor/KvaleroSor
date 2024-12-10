@@ -16,6 +16,15 @@
 
 ![Metrics](./metrics.plugin.isocalendar.svg?unique=2)
 
+#### Lenguajes Más Utilizados
+
+![Metrics](./metrics.plugin.languages.svg?unique=3)
+
+#### Resumen de Repositorios
+
+![Metrics](./metrics.plugin.repositories.svg?unique=4)
+
+
 
 
 
