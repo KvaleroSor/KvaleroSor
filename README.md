@@ -18,7 +18,7 @@
 
 #### Resumen de Repositorios 
 
-![Metrics](./metrics.plugin.repositories.svg?unique=4) 
+![Metrics](./metrics.plugin.repositories.svg?unique=3) 
 
 
 
