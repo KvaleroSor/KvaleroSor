@@ -16,4 +16,28 @@
 
 ![Metrics](./metrics.plugin.isocalendar.svg?unique=2)
 
+#### Resumen de Repositorios 
+
+![Metrics](./metrics.plugin.repositories.svg?unique=4) 
+
+#### Lenguajes Más Utilizados 
+
+![Metrics](./metrics.plugin.languages.svg?unique=5) 
+
+#### Líneas de Código 
+
+![Metrics](./metrics.plugin.lines.svg?unique=6) 
+
+#### Música 
+
+![Metrics](./metrics.plugin.music.svg?unique=7) 
+
+#### Hábitos 
+
+![Metrics](./metrics.plugin.habits.svg?unique=8) 
+
+#### WakaTime 
+
+![Metrics](./metrics.plugin.wakatime.svg?unique=9
+
 
