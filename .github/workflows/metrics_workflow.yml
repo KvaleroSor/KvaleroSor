@@ -32,8 +32,6 @@ jobs:
           plugin_repositories: yes
           plugin_languages: yes
           plugin_lines: yes
-          plugin_music: yes
-          plugin_habits: yes
-          plugin_wakatime: yes
+          
 
       
