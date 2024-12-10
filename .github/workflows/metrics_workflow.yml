@@ -27,6 +27,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_languages: yes
 
       - name: Generate Languages Metrics 
         uses: lowlighter/metrics@latest 
