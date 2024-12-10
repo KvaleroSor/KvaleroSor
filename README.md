@@ -16,10 +16,6 @@
 
 ![Metrics](./metrics.plugin.isocalendar.svg?unique=2)
 
-#### Resumen de Repositorios 
-
-![Metrics](./metrics.plugin.repositories.svg?unique=3) 
-
 
 
 
