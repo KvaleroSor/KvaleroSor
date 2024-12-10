@@ -8,11 +8,12 @@
 
 ### Muestro las métricas de mi cuenta de GitHub.
 
-#### Métrica clasica.
+#### Métrica clásica
 
 ![Metrics](./github-metrics.svg)
 
-#### Mëtrica Isométrica
+#### Métrica Isométrica
 
 ![Metrics](./metrics.plugin.isocalendar.svg)
+
 
