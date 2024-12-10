@@ -10,9 +10,9 @@
 
 #### Métrica clasica.
 
-![Metrics](/github-metrics.svg)
+![Metrics](./github-metrics.svg)
 
 #### Mëtrica Isométrica
 
-![Metrics](/metrics.plugin.isocalendar.svg)
+![Metrics](./metrics.plugin.isocalendar.svg)
 
