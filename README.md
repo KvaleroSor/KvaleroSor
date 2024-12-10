@@ -8,17 +8,14 @@
 
 ### Muestro las métricas de mi cuenta de GitHub.
 
-#### Métrica clásica
+#### Métrica clasica y lenguajes Más Utilizados
 
-![Metrics](./github-metrics.svg?unique=1)
+![Metrics](./metrics.plugin.languages.svg?unique=3)
 
 #### Métrica Isométrica
 
 ![Metrics](./metrics.plugin.isocalendar.svg?unique=2)
 
-#### Lenguajes Más Utilizados
-
-![Metrics](./metrics.plugin.languages.svg?unique=3)
 
 
 
